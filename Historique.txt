@@ -1,3 +1,10 @@
+A faire
+ - Changer la fonction "point" et "ligne" en méthode
+
+14/04/2017
+ - makefile
+ - fonction "ligne"
+
 31/03/2017
-  - première vu sur le code et les classes données
-  - création de la classe CPoint
+ - première vu sur le code et les classes données
+ - création de la classe "CPoint"
