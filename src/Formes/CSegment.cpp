@@ -1,4 +1,4 @@
-#include "csegment.h"
+#include "CSegment.h"
 
 CSegment::CSegment()
 {

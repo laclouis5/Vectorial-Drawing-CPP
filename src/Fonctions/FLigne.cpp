@@ -1,4 +1,4 @@
-#include "fligne.h"
+#include "FLigne.h"
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -7,11 +7,11 @@
 
 using namespace std;
 
-#include "cpoint.h"
-#include "cpixel.h"
-#include "cimage.h"
-#include "csegment.h"
-#include "fpoint.h"
+#include "CPoint.h"
+#include "CPixel.h"
+#include "CImage.h"
+#include "CSegment.h"
+#include "FPoint.h"
 
 void TracerLigne (CSegment *seg, CImage   *img )
 {

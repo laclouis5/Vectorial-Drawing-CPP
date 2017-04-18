@@ -1,4 +1,4 @@
-#include "fpoint.h"
+#include "FPoint.h"
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -7,9 +7,9 @@
 
 using namespace std;
 
-#include "cpoint.h"
-#include "cpixel.h"
-#include "cimage.h"
+#include "CPoint.h"
+#include "CPixel.h"
+#include "CImage.h"
 
 void TracerPoint (CPoint *point, CImage   *img){
 

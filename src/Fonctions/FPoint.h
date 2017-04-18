@@ -1,8 +1,8 @@
 #ifndef FPOINT_H
 #define FPOINT_H
 
-#include "cpoint.h"
-#include "cimage.h"
+#include "CPoint.h"
+#include "CImage.h"
 
 void TracerPoint (CPoint *point, CImage   *img);
 

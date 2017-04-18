@@ -1,5 +1,3 @@
-#include <QCoreApplication>
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
@@ -11,6 +9,7 @@
 #include "cimage.h"
 #include "fligne.h"
 #include "fpoint.h"
+
 using namespace std;
 
 
@@ -24,11 +23,6 @@ int main(int argc, char * argv[]) {
     
     cout << "(II) CImage pointer extraction" << endl;
     CImage   *img = new CImage(200, 200); // création d'une image noire
-    
-    //  for(int i=0; i<200; i++){  //création de la ligne blanche
-    //  CPixel *p = img->getPixel(i, i);
-    //  p->RGB(255,255,255);
-    // }
     
     //création d'un point rouge
     int couleur[3];

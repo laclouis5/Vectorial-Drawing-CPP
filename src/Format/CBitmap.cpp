@@ -1,14 +1,4 @@
-/*
-  *  CBitmap.cpp
-  *  CBitmap
-  *
-  *  Created by Le Gal on 24/10/06.
-  *  Copyright 2006 ENSEIRB. All rights reserved.
-  *
-  */
-
 #include "CBitmap.h"
-
 
 CBitmap::CBitmap(){
         cout << "Creating a CBitmap()" << endl;

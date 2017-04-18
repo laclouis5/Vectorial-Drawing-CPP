@@ -1,16 +1,8 @@
-/*
- *  CLigne.h
- *  P_Bitmap
- *
- *  Created by Le Gal on 24/10/06.
- *  Copyright 2006 __MyCompanyName__. All rights reserved.
- *
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
 #include <string>
+
 using namespace std;
 
 #include "CPixel.h"
