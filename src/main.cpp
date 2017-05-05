@@ -24,6 +24,7 @@ int main(int argc, char * argv[]) {
     cout << "(II) CImage pointer extraction" << endl;
     CImage   *img = new CImage(200, 200); // création d'une image noire
     
+    
     //création d'un point rouge
     int couleur[3];
     couleur[ 0 ] = 255;
